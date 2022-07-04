@@ -59,3 +59,5 @@ target/
 
 # Collected static
 /example/static
+
+.idea
